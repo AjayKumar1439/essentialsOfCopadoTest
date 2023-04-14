@@ -8,7 +8,13 @@ Public Class Application{
         System.debug('Application Inserted :'+app.name);
     }
 }
-//Added Email 
+/*Added Email
+  
+  
+ 
+
+
+*/
 /*Go to Developer Console>>Debug>>Open Execute Anonymous Window and execute the following code*/
 /*Demo1 ac= new Demo1();
 ac.CreateAccount('testApplication','123456789');*/
